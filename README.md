@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![logo](https://github.com/harsh7739/harsh7739/blob/main/Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Harshranjan kumar</h1>
 <h3 align="center">A passionate frontend developer from India. Aspiring Developer | Curious Coder | Always excited for New Challenges</h3>
 
