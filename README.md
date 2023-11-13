@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh7739&label=Profile%20views&color=0e75b6&style=flat" alt="harsh7739" /> </p>
 
-- 🔭 I’m currently working on [World Travel](https://world-travel-ns4dpcn5j-harsh7739.vercel.app/)
+- World Traveling [World Travel](https://world-travel-ns4dpcn5j-harsh7739.vercel.app/)
 
-- 👯 I’m looking to collaborate on [India Mart](https://dapper-stroopwafel-ae683f.netlify.app)
+- India Mart Clone [India Mart](https://dapper-stroopwafel-ae683f.netlify.app)
 
-- 🤝 I’m looking for help with [Ecotourism](https://resonant-meringue-f6cdea.netlify.app/index.html)
+- Ecotourism Website [Ecotourism](https://resonant-meringue-f6cdea.netlify.app/index.html)
 
 - 📫 How to reach me **hrbhumi123@gmail.com**
 
